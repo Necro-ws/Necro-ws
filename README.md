@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: 1999<br>📚 I'm currently learning: Systems Analysis and Development Student // Python<br>🎯 Goals: Be a great DEV<br>🎲 Fun fact: I have ADHD  :D</p>
+<p align="left">✨ Creating bugs since: 1999<br>📚 I'm currently learning: Systems Analysis and Development Student // Python<br>🎯 Goals: Be a great DEV<br></p>
 
 ###
 
