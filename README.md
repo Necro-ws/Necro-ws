@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Cláudio, a developer passionate about building robust and efficient solutions. I enjoy tackling new challenges and continuously expanding my technical skills.
+<p align="left">I'm Cláudio, a developer passionate about building robust and efficient solutions.<br>I enjoy tackling new challenges and continuously expanding my technical skills.
 </p>
 
 ###
