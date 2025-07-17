@@ -1,8 +1,9 @@
-<h1 align="left">Hello World!👋</h1>
+<h1 align="left">Hello!👋</h1>
 
 ###
 
-<p align="left">My name is Cláudio and I'm always looking to improve</p>
+<p align="left">I'm Cláudio, a developer passionate about building robust and efficient solutions. I enjoy tackling new challenges and continuously expanding my technical skills.
+</p>
 
 ###
 
@@ -10,15 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: 1999<br>📚 I'm currently learning: Systems Analysis and Development Student // Python<br>🎯 Goals: Be a great DEV<br></p>
-
-###
-
-<h2 align="left">I code with Python...</h2>
-
-###
-
-<p align="left">for now...</p>
+<p align="left">💻 Experienced with: Python (Flask, Django), and Java.<br>🎯 Always seeking opportunities to contribute to innovative projects and grow as a software engineer.</p>
 
 ###
 
